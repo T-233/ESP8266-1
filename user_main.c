@@ -18,5 +18,5 @@
 *******************************************************************************/
 void app_main(void)
 {
-    printf("SDK version:%s\n", esp_get_idf_version());
+    printf("HELLO WORLD!:%s\n", esp_get_idf_version());
 }
